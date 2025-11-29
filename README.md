@@ -22,6 +22,14 @@ O AniMart é um site simples de compra e venda de produtos relacionados ao mundo
 
 <img width="1877" height="932" alt="Captura de tela 2025-11-29 190353" src="https://github.com/user-attachments/assets/1187930c-98c5-4918-874c-9bb7b817143a" />
 
+<img width="1860" height="930" alt="Captura de tela 2025-11-29 190410" src="https://github.com/user-attachments/assets/d3a31f04-e665-489e-82ce-eb98092f4659" />
+
+<img width="1874" height="943" alt="Captura de tela 2025-11-29 201009" src="https://github.com/user-attachments/assets/b4ab36c1-2051-4a22-9b87-1fb9d399908a" />
+
+<img width="1878" height="941" alt="Captura de tela 2025-11-29 201130" src="https://github.com/user-attachments/assets/48b21e52-8183-4d7c-b7d0-d62936b0ed78" />
+
+<img width="1875" height="940" alt="Captura de tela 2025-11-29 201144" src="https://github.com/user-attachments/assets/b55b8fd6-a5e8-461d-9f14-b5bf68ec71f3" />
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
